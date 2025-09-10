@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulcioban1997  
 - 👀 I’m interested in Artificial Intelligence, Web Development (Django), and robotics  
-- 🌱 I’m currently learning Python, Django, SQL, and Statistics at Collège CDI, Montréal  
+- 🌱 I’m currently learning Python,Machine Learning, Deep Learning,Pytorch,Tensorflow Django, SQL, and Statistics at Collège CDI, Montréal  
 - 💞️ I’m looking to collaborate on AI projects, Django apps, and smart assistant development  
 - 📫 How to reach me: paulmircea15@gmail.com  
 - 😄 Pronouns: he/him  
