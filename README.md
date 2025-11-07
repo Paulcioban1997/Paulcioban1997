@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI projects, Django apps, and smart assistant development  
 - 📫 How to reach me: paulmircea15@gmail.com  
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: I’m building an intelligent assistant like JARVIS called Iron Bob 🤖
+
 
 <!---
 Paulcioban1997/Paulcioban1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
