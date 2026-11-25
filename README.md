@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paulcioban1997  
 - 👀 I’m interested in Artificial Intelligence, Web Development, Platforms , and Robotics  
-- 🌱 I just have my diploma in AI and was learning Python,Machine Learning, Deep Learning,Pytorch,Tensorflow, SQL, and Statistics at Collège CDI, Montreal Canada 
+- 🌱 I just graduate in AI and was learning Python,Machine Learning, Deep Learning,Pytorch,Tensorflow, SQL, and Statistics at Collège CDI, Montreal Canada 
 - 💞️ I’m looking to collaborate on AI projects, Flutter/Dart multi-platform apps, and smart assistant development  
 - 📫 How to reach me: paulmircea15@gmail.com , info@avenqo.ca 
 - 😄 Pronouns: he/him  
